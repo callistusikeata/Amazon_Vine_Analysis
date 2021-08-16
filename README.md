@@ -1,5 +1,3 @@
-# Amazon_Vine_Analysis
-
 # Overview of Analysis
 
 This project analyzes Amazon Vine program and determines if there is a bias toward favorable reviews from Vine members.
@@ -18,29 +16,30 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 ## Total number of reviews
 
-Vine reviews
+- Vine reviews
 
 
 
-Non-Vine reviews
+- Non-Vine reviews
 
 
 
-Total number of 5-star reviews
-Vine reviews
+## Total number of 5-star reviews
+
+- Vine reviews
 
 
 
-Non-Vine reviews
+- Non-Vine reviews
 
 
 
-Percentage of 5-star reviews
-Vine reviews
+## Percentage of 5-star reviews
+
+- Vine reviews
 
 
-
-Non-Vine reviews
+- Non-Vine reviews
 
 # Summary
 
