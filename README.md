@@ -17,26 +17,26 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 ## Total number of reviews
 
 - Vine reviews
-https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=R78AZeyEThYQ&line=3&uniqifier=1
+![image](https://user-images.githubusercontent.com/82552594/129619664-740504ec-ca6c-48da-87e4-d41dee18fd55.png)
 
 - Non-Vine reviews
-https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=8hnXva7UUzLu&line=3&uniqifier=1
+![image](https://user-images.githubusercontent.com/82552594/129619737-44b7d6b7-348e-4a43-865d-3a0c5895048c.png)
 
 ## Total number of 5-star reviews
 
 - Vine reviews
-https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=wAHwNZTsXY12&line=3&uniqifier=1
+![image](https://user-images.githubusercontent.com/82552594/129619878-82bbf101-130f-4cfd-8306-abd6f4da7c3b.png)
 
 - Non-Vine reviews
-https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=eutjHR0yWkUn&line=3&uniqifier=1
+![image](https://user-images.githubusercontent.com/82552594/129619950-c316f9a1-6149-40df-9c9e-9289e223ff39.png)
 
 ## Percentage of 5-star reviews
 
 - Vine reviews
-https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=HHJP4RQDU9iD&line=3&uniqifier=1
+![image](https://user-images.githubusercontent.com/82552594/129620005-0c896450-225e-4f04-b760-bb2343fa1706.png)
 
 - Non-Vine reviews
-https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=eutjHR0yWkUn&line=3&uniqifier=1
+![image](https://user-images.githubusercontent.com/82552594/129620070-6ea7cced-cafe-437b-87fc-be4209b6a4c0.png)
 
 # Summary
 
