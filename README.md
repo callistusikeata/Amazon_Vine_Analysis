@@ -2,7 +2,7 @@
 
 Analyzing Amazon reviews written by members of the paid Amazon Vine program https://www.amazon.com/gp/vine/help.
 
-# Objective
+# Overview of Analysis
 
 Like the majority of shoppers, Amazon's shoppers depend on product reviews to make a purchase decisions. Amazon makes their vine review datasets publicly available https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt. Vine reviews are quite large and can exceed the capacity of local machines to handle; hence, we are using Spark and AWS.
 
@@ -19,7 +19,7 @@ DATA FORMAT Tab ('\t') separated text file, without quote or escape characters. 
 
 Video Games https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
 
-Results
+# Results
 ETL Process in Big Data using PySpark
 Create DataFrames to match production-ready tables from two big Amazon customer review datasets. Amazon_Reviews_ETL.ipynb
 
