@@ -17,29 +17,26 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 ## Total number of reviews
 
 - Vine reviews
-
-
+https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=R78AZeyEThYQ&line=3&uniqifier=1
 
 - Non-Vine reviews
-
-
+https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=8hnXva7UUzLu&line=3&uniqifier=1
 
 ## Total number of 5-star reviews
 
 - Vine reviews
-
-
+https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=wAHwNZTsXY12&line=3&uniqifier=1
 
 - Non-Vine reviews
-
-
+https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=eutjHR0yWkUn&line=3&uniqifier=1
 
 ## Percentage of 5-star reviews
 
 - Vine reviews
-
+https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=HHJP4RQDU9iD&line=3&uniqifier=1
 
 - Non-Vine reviews
+https://colab.research.google.com/drive/1p09F65HFRx34ZlwcMq4fF3vA4xVzMGyk#scrollTo=eutjHR0yWkUn&line=3&uniqifier=1
 
 # Summary
 
